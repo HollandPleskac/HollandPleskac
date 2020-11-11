@@ -1,5 +1,7 @@
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewevolutiondesigns.com%2F20-cool-hd-wallpapers&psig=AOvVaw3i2Vt7cGgUzeZNx-AZJ-_n&ust=1605158981116000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJitm6nh-ewCFQAAAAAdAAAAABAD" alt = "Coder"> 
+
 ### 👋 Hi there I'm Holland
 
 I'm an entrepreneur and software developer passionate about solving real-world problems.
