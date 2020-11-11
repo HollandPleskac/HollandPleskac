@@ -5,7 +5,7 @@
 
 I'm an entrepreneur and software developer passionate about solving real-world problems.
 
-## Skills
+### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
