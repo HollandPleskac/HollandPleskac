@@ -11,7 +11,7 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 - 🌱 Self taught app/web developer
 - 🖥️ I enjoy developing projects in my free time
 
-### Skills
+# Skills
 
 - 📱 Flutter
 - 🐍 Python
