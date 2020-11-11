@@ -5,7 +5,15 @@
 
 I'm an entrepreneur and software developer passionate about solving real-world problems.
 
+### About
+
+- ⌚ 16 years old
+- 🌱 Self taught app/web developer
+- 💻 I enjoy developing projects in my free time
+
 ### Skills
+
+- Flutter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
