@@ -20,9 +20,9 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 ### Current Projects
 
-- <a href="#">Class Vibes</a> - A platform that helps teachers and students stay connected during distance learning.
-- <a href="#">Name Gifts</a> - A website that allows users to buy gifts for each other secretly.
-- <a href="#">COVID Network</a> - Tract your social distance with bluetooth RSSI signals.
+- ⚡ <a href="#">Class Vibes</a> - A platform that helps teachers and students stay connected during distance learning.
+- 📫 <a href="#">Name Gifts</a> - A website that allows users to buy gifts for each other secretly.
+- 🟦 <a href="#">COVID Network</a> - Tract your social distance with bluetooth RSSI signals.
 
 
 
