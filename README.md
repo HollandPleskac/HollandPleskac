@@ -24,17 +24,14 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 - 📫 <a href="#">Name Gifts</a> - A website that allows users to buy gifts for each other secretly.
 - 🟦 <a href="#">COVID Network</a> - Tract your social distance with bluetooth RSSI signals.
 
+## Lets Connect!
+
+- 📧 Get in touch over email : hollandpleskac@gmail.com
+- 📫 Learn more about me on <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">linkedin</a>
+- 🕸️ Personal Website coming soon...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: Connect with me on linkedIn
 
 <!--
 **HollandPleskac/HollandPleskac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
