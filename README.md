@@ -14,6 +14,14 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 ### Skills
 
 - Flutter
+- Python
+- Firebase
+- HTML
+- CSS
+- Javascript
+- Vue.js
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
