@@ -13,13 +13,11 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 ### Skills
 
-- Flutter
-- Python
-- Firebase
-- HTML
-- CSS
-- Javascript
-- Vue.js
+- 📱 Flutter
+- 🐍 Python
+- 🖥️ Web Development
+- 🔥 Firebase
+
 
 
 
