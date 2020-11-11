@@ -17,7 +17,7 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 - 🐍 Python
 - 🖥️ Web Development
 - 🔥 Firebase
-< href="#">test</a>
+<a href="#">test</a>
 ### Current Projects
 
 - <p style="color:blue;">Class Vibes</p> - A platform that helps teachers and students stay connected during distance learning.
