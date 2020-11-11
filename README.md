@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Holland
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
 - 🔭 I’m currently working on ...
