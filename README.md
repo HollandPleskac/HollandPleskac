@@ -7,9 +7,9 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 ### About
 
-- 16 years old
-- Self taught app/web developer
-- I enjoy developing projects in my free time
+- ⌚ 16 years old
+- 🌱 Self taught app/web developer
+- 🖥️ I enjoy developing projects in my free time
 
 ### Skills
 
@@ -18,6 +18,10 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 - 🖥️ Web Development
 - 🔥 Firebase
 
+### Current Projects
+
+- <b>Class Vibes</b>
+- 
 
 
 
