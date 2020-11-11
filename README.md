@@ -12,7 +12,7 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 - 🖥️ I enjoy developing projects in my free time
 
 ### Skills
-
+<br/>
 - 📱 Flutter
 - 🐍 Python
 - 🖥️ Web Development
