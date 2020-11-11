@@ -20,8 +20,8 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 ### Current Projects
 
-- <b>Class Vibes</b>
-- 
+- Class Vibes - A platform that helps teachers and students stay connected during distance learning.
+- Name Gifts - A website that allows users to buy gifts for each other secretly.
 
 
 
