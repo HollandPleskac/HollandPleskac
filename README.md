@@ -1,6 +1,5 @@
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
-<div style = "height:300; background-color: blue;"></div>
 
 ### 👋 Hi there I'm Holland
 
