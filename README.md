@@ -20,22 +20,24 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 <b>Current Projects</b>
 
-- ⚡ <a href="#">Class Vibes</a> - A platform that helps teachers and students stay connected during distance learning.
-- 📫 <a href="#">Name Gifts</a> - A website that allows users to buy gifts for each other secretly.
-- 🟦 <a href="#">COVID Network</a> - Track your social distance with bluetooth RSSI signals.
+- 🌷 <a href="#">Class Vibes</a> - A platform that helps teachers and students stay connected during distance learning.
+- 🎁 <a href="#">Name Gifts</a> - A website that allows users to buy gifts for each other secretly.
+- 🦠 <a href="#">COVID Network</a> - Track your social distance with bluetooth RSSI signals.
 
 ## Lets Connect!
 
 - 📧 Email : hollandpleskac@gmail.com
 - 🔗 Linkedin : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">lets connect!</a>
 - 📷 Instagram : <a href = "https://www.instagram.com/pleskac415/"> follow me! </a>
-- 🕸️ Personal Website coming soon...
+- ⌨️ Personal Website coming soon...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
+
 
 <!--
 **HollandPleskac/HollandPleskac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
 Here are some ideas to get you started:
 
