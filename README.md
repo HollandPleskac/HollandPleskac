@@ -13,10 +13,10 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 <b>Skills</b>
 
-- 📱 Flutter
-- 🐍 Python
-- 🖥️ Web Development
-- 🔥 Firebase
+- Flutter
+- Python
+- Web Development
+- Firebase
 
 <b>Current Projects</b>
 
