@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
-[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
+[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
