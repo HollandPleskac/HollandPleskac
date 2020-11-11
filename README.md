@@ -1,6 +1,6 @@
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
-<img src="https://i.pinimg.com/originals/bb/61/8d/bb618db7d825e2e03c8d86f781a65e06.jpg" alt = "Coder"> 
+<div style = "height:300, width:200, background-color: blue"></div>
 
 ### 👋 Hi there I'm Holland
 
