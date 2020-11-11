@@ -5,7 +5,7 @@
 
 I'm an entrepreneur and software developer passionate about solving real-world problems.
 
-## About Me
+### About Me
 
 - ⌚ 16 years old
 - 🌱 Self taught app/web developer
@@ -24,10 +24,11 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 - 📫 <a href="#">Name Gifts</a> - A website that allows users to buy gifts for each other secretly.
 - 🟦 <a href="#">COVID Network</a> - Track your social distance with bluetooth RSSI signals.
 
-## Lets Connect!
+### Lets Connect!
 
-- 📧 Get in touch over email : hollandpleskac@gmail.com
-- 🔗 Learn more about me on <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">linkedin</a>
+- 📧 Email : hollandpleskac@gmail.com
+- 🔗 Linkedin : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">lets connect!</a>
+- Instagram : <a href = "https://www.instagram.com/pleskac415/"> follow me! </a>
 - 🕸️ Personal Website coming soon...
 
 
