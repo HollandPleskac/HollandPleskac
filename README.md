@@ -27,7 +27,7 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 ## Lets Connect!
 
 - 📧 Email : hollandpleskac@gmail.com
-- 🔗 Linkedin : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@Holland Pleskac</a>
+- 🔗 Linkedin : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@holland-pleskac</a>
 - 📷 Instagram : <a href = "https://www.instagram.com/pleskac415/">@pleskac415</a>
 - ⌨️ Personal Website coming soon...
 
