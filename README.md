@@ -5,7 +5,7 @@
 
 I'm an entrepreneur and software developer passionate about solving real-world problems.
 
-### About
+## About Me
 
 - ⌚ 16 years old
 - 🌱 Self taught app/web developer
