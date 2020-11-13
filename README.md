@@ -1,5 +1,7 @@
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
+Hi 👋 I'm Holland Pleskac
+
 ## About Me
 
 I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real worl problems.
