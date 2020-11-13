@@ -1,5 +1,6 @@
-![Hi I'm Holland!](https://github.com/HollandPleskac/HollandPleskac/blob/main/header.png)
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
+
+### 👋 Hi there! I'm Holland
 
 Entrepreneur and software developer passionate about solving real-world problems.
 
