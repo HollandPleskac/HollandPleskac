@@ -19,13 +19,6 @@ Entrepreneur and software developer passionate about solving real-world problems
 - 🎁 <a href="https://github.com/HollandPleskac/Name-Gifts-Web">Name Gifts</a> is a website that allows users to buy gifts for each other secretly.  Currently under development.
 - 🦠 <a href="https://github.com/HollandPleskac/Covid-Smart-App">COVID Smart</a> is an app that uses bluetooth to help you social distance.  View encounters over time in a live google map as the app uses bluetooth signal strength to determine if you are within 6 feet of another person.!
 
-## Lets Connect!
-
-- 📧 Email : hollandpleskac@gmail.com
-- 🔗 Linkedin : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@HollandPleskac</a>
-- 📷 Instagram : <a href = "https://www.instagram.com/pleskac415/">@pleskac415</a>
-- ⌨️ Personal Website coming soon...
-
 
 
 
