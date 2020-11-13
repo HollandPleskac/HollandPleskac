@@ -4,6 +4,10 @@
 
 Entrepreneur and software developer passionate about solving real-world problems.
 
+Connect with me on LinkedIn <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@HollandPleskac</a>
+Follow me on Instagram <a href = "https://www.instagram.com/pleskac415/">@pleskac415</a>
+Sent me an email at hollandpleskac@gmail.com
+
 #### Skills
 
 - Flutter
