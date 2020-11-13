@@ -8,8 +8,8 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 ## About Me
 
 - 🖥️ Hackathon/Coding enthusiast
-- ⌚ 16 years old
 - 🌱 Self taught app/web developer
+- ⌚ 16 years old
 
 <b>Skills</b>
 
