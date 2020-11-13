@@ -1,4 +1,4 @@
-![Hi I'm Holland!](https://github.com/HollandPleskac/HollandPleskac/blob/main/header.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
 ## About Me
 
@@ -33,6 +33,8 @@ I'm an entrepreneur, software developer, and hackathon and coding enthusiast pas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
 
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
+
+![Hi I'm Holland!](https://github.com/HollandPleskac/HollandPleskac/blob/main/header.png)
 
 Here are some ideas to get you started:
 
