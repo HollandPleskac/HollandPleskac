@@ -2,16 +2,16 @@
 
 ### 👋 Hi There! I'm Holland
 
-🖥️ Hackathon/Coding Enthusiast 🌱 Self taught App/Web developer ⌚ 16 years old
+Hackathon/Coding Enthusiast • Self taught App/Web developer • 16 years old
 
-### Skills
+#### Skills
 
 - Flutter
 - Python
 - Web Development
 - Firebase
 
-### Current Projects
+#### Current Projects
 
 - 🌷 <a href="https://classvibes.net/">Class Vibes</a> is a platform that helps teachers and students stay connected during distance learning.  View on the website at classvibes.net and download our app from the App Store and Play Store!
 - 🎁 <a href="https://github.com/HollandPleskac/Name-Gifts-Web">Name Gifts</a> is a website that allows users to buy gifts for each other secretly.  Currently under development.
