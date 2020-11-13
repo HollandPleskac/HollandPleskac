@@ -4,6 +4,8 @@
 
 I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real world problems.
 
+## About Me
+
 <b>Skills</b>
 
 - Flutter
