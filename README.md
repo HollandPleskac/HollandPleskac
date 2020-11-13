@@ -2,7 +2,7 @@
 
 ### 👋 Hi There! I'm Holland
 
-Hackathon/Coding Enthusiast • Self taught App/Web developer • 16 years old
+🖥️ Hackathon/Coding Enthusiast 🌱 Self taught App/Web developer ⌚ 16 years old
 
 #### Skills
 
