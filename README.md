@@ -2,7 +2,7 @@
 
 ### Hi 👋 I'm Holland Pleskac
 
-I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real worl problems.
+I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real world problems.
 
 <b>Skills</b>
 
