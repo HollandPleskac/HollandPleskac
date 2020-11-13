@@ -2,7 +2,7 @@
 
 ### 👋 Hi there! I'm Holland
 
-I'm an entrepreneur and software developer passionate about solving real-world problems.
+Entrepreneur and software developer passionate about solving real-world problems.
 
 ## About Me
 
