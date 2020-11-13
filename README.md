@@ -4,7 +4,13 @@
 
 I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real world problems.
 
+🖥️ Hackathon/Coding enthusiast
+🌱 Self taught app/web developer
+⌚ 16 years old
+
 ## About Me
+
+
 
 <b>Skills</b>
 
