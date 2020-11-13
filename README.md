@@ -20,9 +20,9 @@ I'm an entrepreneur and software developer passionate about solving real-world p
 
 <b>Current Projects</b>
 
-- 🌷 <a href="https://classvibes.net/">Class Vibes</a>, a platform that helps teachers and students stay connected during distance learning.  View on the website at classvibes.net and download our app from the App Store and Play Store!
-- 🎁 <a href="https://github.com/HollandPleskac/Name-Gifts-Web">Name Gifts</a>, a website that allows users to buy gifts for each other secretly.  Currently under development.
-- 🦠 <a href="https://github.com/HollandPleskac/Covid-Smart-App">COVID Smart</a>, track your social distance with bluetooth RSSI signals.  The app uses bluetooth signal strength to determine if you are within 6 feet of another person.  View encounters over time in a live google map!
+- 🌷 <a href="https://classvibes.net/">Class Vibes</a> - a platform that helps teachers and students stay connected during distance learning.  View on the website at classvibes.net and download our app from the App Store and Play Store!
+- 🎁 <a href="https://github.com/HollandPleskac/Name-Gifts-Web">Name Gifts</a> - a website that allows users to buy gifts for each other secretly.  Currently under development.
+- 🦠 <a href="https://github.com/HollandPleskac/Covid-Smart-App">COVID Smart</a> - an app that uses bluetooth to help you social distance.  Uses bluetooth signal strength to determine if you are within 6 feet of another person.  View encounters over time in a live google map!
 
 ## Lets Connect!
 
