@@ -1,4 +1,4 @@
-[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
+![Hi I'm Holland!](https://octodex.github.com/images/yaktocat.png)
 
 I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real worl problems.
 
@@ -29,6 +29,8 @@ I'm an entrepreneur, software developer, and hackathon and coding enthusiast pas
 **HollandPleskac/HollandPleskac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollandPleskac)](https://github.com/HollandPleskac/github-readme-stats)
+
+[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
 Here are some ideas to get you started:
 
