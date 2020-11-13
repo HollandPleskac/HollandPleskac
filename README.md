@@ -1,4 +1,4 @@
-![Hi there! Into](https://octodex.github.com/images/yaktocat.png)
+![Hi there! Into](https://github.com/HollandPleskac/HollandPleskac/blob/main/header.png)
 
 [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
