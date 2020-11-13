@@ -2,7 +2,7 @@
 
 ### Hi 👋 I'm Holland Pleskac
 
-🖥️ Hackathon/Coding Enthusiast 🌱 Self taught App/Web developer ⌚ Entrepreneur
+🖥️ Hackathon/Coding Enthusiast 🌱 Self taught App/Web developer ⌚ 16 years old
 
 ## About Me
 
