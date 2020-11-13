@@ -1,4 +1,4 @@
-[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=graywhite&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
+[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=slateorange&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
 
 ### Hi 👋 I'm Holland Pleskac
 
