@@ -1,4 +1,4 @@
-![Hi I'm Holland!](https://octodex.github.com/images/yaktocat.png)
+![Hi I'm Holland!](https://github.com/HollandPleskac/HollandPleskac/blob/main/header.png)
 
 I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real worl problems.
 
