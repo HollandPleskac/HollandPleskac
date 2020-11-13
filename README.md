@@ -8,10 +8,10 @@ Entrepreneur and software developer passionate about solving real-world problems
 
 #### Skills
 
-- Flutter
-- Python
-- Web Development
-- Firebase
+- 📱 Flutter
+- 🐍 Python
+- 💻 Web Development
+- 🔥 Firebase
 
 #### Current Projects
 
