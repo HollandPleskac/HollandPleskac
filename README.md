@@ -4,8 +4,6 @@
 
 Entrepreneur and software developer passionate about solving real-world problems.
 
-## About Me
-
 #### Skills
 
 - Flutter
