@@ -1,5 +1,7 @@
 ![Hi I'm Holland!](https://github.com/HollandPleskac/HollandPleskac/blob/main/header.png)
 
+## About Me
+
 I'm an entrepreneur, software developer, and hackathon and coding enthusiast passionate about solving real worl problems.
 
 <b>Skills</b>
