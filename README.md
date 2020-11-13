@@ -4,6 +4,8 @@
 
 🖥️ Hackathon/Coding Enthusiast 🌱 Self taught App/Web developer ⌚ 16 years old
 
+## About Me
+
 #### Skills
 
 - Flutter
