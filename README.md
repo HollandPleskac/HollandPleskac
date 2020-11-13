@@ -2,6 +2,9 @@
 
 ### 👋 Hi There! I'm Holland
 
+I'm an entrepreneur and software developer passionate about solving real-world problems.
+
+
 - 🖥️ Hackathon/Coding Enthusiast
 - 🌱 Self taught App/Web developer
 - ⌚ 16 years old
