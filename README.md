@@ -22,7 +22,7 @@ Entrepreneur and software developer passionate about solving real-world problems
 #### Lets Connect
 
 - Connect with me on LinkedIn <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@Holland Pleskac</a>
-- Follow me on <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a>
+- Follow me on Instagram <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a>
 - Send me an email at hollandpleskac.com
 
 <!--
