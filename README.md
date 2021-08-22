@@ -6,7 +6,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### Skills
 
-- ⚡ Blockchain : Solidity, Hardhat, Ethers.js, Web3.js
+- ⚡ Blockchain : Solidity, Hardhat, Ethers.js, Web3.js, MetaMask
 - 💻 Websites : HTML, CSS, Javascript, React, Next.js, Tailwindcss, Bootstrap, Node.js, Express
 - 📱 Apps : Flutter, Firebase
 - 🔥 Languages : Javascript, Python, Solidity, Dart, Java
