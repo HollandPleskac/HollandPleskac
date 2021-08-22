@@ -1,29 +1,30 @@
-[![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats)
+<!-- [![Hollands's github stats](https://github-readme-stats.vercel.app/api?username=HollandPleskac&show_icons=false&theme=dracula&hide=stars&count_private=true)](https://github.com/HollandPleskac/github-readme-stats) -->
 
-### 👋 Hi there! I'm Holland
+## 👋 Hi there! I'm Holland
 
-Entrepreneur and software developer passionate about solving real-world problems.
-
-
+I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### Skills
 
-- 📱 Flutter
-- 🐍 Python
-- 💻 Web Development
-- 🔥 Firebase
+- ⚡ Blockchain : Solidity, Hardhat, Ethers.js, Web3.js
+- 💻 Websites : HTML, CSS, Javascript, React, Next.js, Tailwindcss, Bootstrap, Node.js, Express
+- 📱 Apps : Flutter, Firebase
+- 🔥 Languages : Javascript, Python, Solidity, Dart, Java
+- ⚔️ Tools : Github, Figma
 
-#### Current Projects
+#### What I'm Working On
 
-- 🌷 <a href="https://classvibes.net/">Class Vibes</a> - a platform that helps teachers and students stay connected during distance learning.  View on the website at classvibes.net and download our app from the App Store and Play Store!
-- 🤖 <a href="https://github.com/HollandPleskac/Splinter-Lands-Farming-Bot">Splinter Lands Farming Bot</a> - a web scraping bot that continuously plays matches in Splinter Lands.
-- 🦠 <a href="https://github.com/HollandPleskac/Covid-Smart-App">COVID Smart</a> - an app that uses bluetooth to help you social distance.  View encounters over time in a live google map as the app uses bluetooth signal strength to determine if you are within 6 feet of another person.!
+- 🌳 <a href="https://communify-smart-portal.vercel.app/">Communify</a> - a community engagement platform that lets citizens propose solutions to issues in their communities.
+- ⚫ <a href="https://holland-tokens.vercel.app/">Holland Tokens</a> - Learning about ethereum, solidity, ethers js, hardhat and ERC20 tokens!
 
-#### Lets Get In Touch
+#### Contact Me!
 
 - ❄️ LinkedIn : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@Holland Pleskac</a>
-- 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a>
 - 📥 Email : hollandpleskac@gmail.com
+<!-- - 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a> -->
+
+
+
 
 <!--
 **HollandPleskac/HollandPleskac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,3 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- to get emojis! https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
