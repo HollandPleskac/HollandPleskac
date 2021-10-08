@@ -14,8 +14,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### What I'm Working On
 
-- 🌳 <a href="https://communify-smart-portal.vercel.app/">Communify</a> - a community engagement platform that lets citizens propose solutions to issues in their communities.
-- ⚫ <a href="https://holland-tokens.vercel.app/">Holland Tokens</a> - Learning about ethereum, solidity, ethers js, hardhat and ERC20 tokens!
+- Learning Rust!
 
 #### Contact Me!
 
