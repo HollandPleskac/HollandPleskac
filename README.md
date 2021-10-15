@@ -14,7 +14,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### What I'm Working On
 
-- Learning Rust!
+- Learning Rust and Substrate!
 
 #### Contact Me!
 
