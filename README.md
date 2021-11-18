@@ -14,7 +14,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### What I'm Working On
 
-- Learning Rust and Substrate!
+- Using Chainlink's call any api feature and keepers for a hackathon project
 
 #### Contact Me!
 
