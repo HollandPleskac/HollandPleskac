@@ -14,7 +14,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### What I'm Working On
 
-- Using Chainlink's call any api feature and keepers for a hackathon project
+- Learning about web3 and blockchain
 
 #### Contact Me!
 
