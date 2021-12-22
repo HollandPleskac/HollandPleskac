@@ -14,7 +14,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### What I'm Working On
 
-- Learning about web3 and blockchain
+- Learning graphql
 
 #### Contact Me!
 
