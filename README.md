@@ -14,7 +14,7 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### What I'm Working On
 
-- Learning graphql
+- Riptide Solana Hackathon
 
 #### Contact Me!
 
