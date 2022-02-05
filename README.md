@@ -18,7 +18,6 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 
 #### Contact Me!
 
-- ❄️ LinkedIn : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@Holland Pleskac</a>
 - 📥 Email : hollandpleskac@gmail.com
 <!-- - 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a> -->
 
@@ -50,3 +49,4 @@ Here are some ideas to get you started:
 
  
 <!-- to get emojis! https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+<!-- - ❄️ LinkedIn : <a href = "https://www.linkedin.com/in/holland-pleskac-54a090199/">@Holland Pleskac</a> -->
