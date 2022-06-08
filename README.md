@@ -19,7 +19,7 @@ I'm a software developer who's super interested in blockchain!
 #### Contact Me!
 
 - 📥 Email : hollandpleskac@gmail.com
-<!-- - 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a> --> -->
+<!-- - 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a> --> 
 
 
 
