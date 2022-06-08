@@ -12,14 +12,14 @@ I'm a software developer and entrepreneur who's super interested in blockchain!
 - 🔥 Languages : Javascript, Python, Solidity, Dart, Java
 - ⚔️ Tools : Github, Figma
 
-#### What I'm Working On
+<!-- #### What I'm Working On
 
 - Riptide Solana Hackathon
 
 #### Contact Me!
 
 - 📥 Email : hollandpleskac@gmail.com
-<!-- - 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a> -->
+<!-- - 📷 Instagram : <a href = "https://www.instagram.com/holland_pleskac/">@holland_pleskac</a> --> -->
 
 
 
