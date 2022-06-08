@@ -2,7 +2,7 @@
 
 ## 👋 Hi! I'm Holland
 
-I'm a software developer and entrepreneur who's super interested in blockchain!
+I'm a software developer who's super interested in blockchain!
 
 #### Skills
 
