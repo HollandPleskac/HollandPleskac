@@ -12,6 +12,10 @@ I'm interested in learning about AI.
 - 🔥 Languages : Javascript, Python, Solidity, Dart, Java
 - ⚔️ Tools : Github, Figma
 
+#### Currently working on
+
+- yolov7 object detection
+
 <!-- #### What I'm Working On
 
 - Riptide Solana Hackathon
