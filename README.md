@@ -2,10 +2,11 @@
 
 ## 👋 Hi! I'm Holland
 
-I'm interested in learning about AI.  
+I'm interested in building software. 
 
 #### Skills
 
+- ⚡ AI/ML : PyTorch, Sklearn, Numpy, Pandas, OpenCV, Mediapipe
 - ⚡ Blockchain : Solidity, Hardhat, Ethers.js, Web3.js, MetaMask
 - 💻 Websites : HTML, CSS, Javascript, React, Next.js, Tailwindcss, Bootstrap, Node.js, Express
 - 📱 Apps : Flutter, Firebase
@@ -14,7 +15,7 @@ I'm interested in learning about AI.
 
 #### Currently working on
 
-- yolov7 object detection
+- A personal trainer AI
 
 <!-- #### What I'm Working On
 
