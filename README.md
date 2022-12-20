@@ -15,7 +15,7 @@ I'm interested in building software.
 
 #### Currently working on
 
-- A personal trainer AI
+- Mongodb with next-auth
 
 <!-- #### What I'm Working On
 
