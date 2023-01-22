@@ -15,7 +15,7 @@ I'm interested in building software.
 
 #### Currently working on
 
-- Mongodb with next-auth
+- Fast AI course
 
 <!-- #### What I'm Working On
 
