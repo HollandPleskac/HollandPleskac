@@ -10,17 +10,17 @@ I'm interested in building software.
 - **Database:** Postgresql, Firebase
 - **Web Development:** HTML, CSS, Javascript, Typescript, React.js, Next.js, Tailwind.css, Node.js, Express
 - **Operating Systems:** Windows, MacOS, Unix
-- **Tools: **Git, Visual Studio Code, Jupyter
+- **Tools:** Git, Visual Studio Code, Jupyter
 - **Cloud Services:** Google Cloud Platform (GCP)
 - **Libraries:** React, SWR, PyTorch, Pandas, Numpy
 
 #### Currently working on
 
-- Fast AI course
+- Clonr
 
 <!-- #### What I'm Working On
 
-- Clonr
+- Fast AI Course
 
 #### Contact Me!
 
