@@ -6,12 +6,13 @@ I'm interested in building software.
 
 #### Skills
 
-- ⚡ AI/ML : PyTorch, Sklearn, Numpy, Pandas, OpenCV, Mediapipe
-- ⚡ Blockchain : Solidity, Hardhat, Ethers.js, Web3.js, MetaMask
-- 💻 Websites : HTML, CSS, Javascript, React, Next.js, Tailwindcss, Bootstrap, Node.js, Express
-- 📱 Apps : Flutter, Firebase
-- 🔥 Languages : Javascript, Python, Solidity, Dart, Java
-- ⚔️ Tools : Github, Figma
+**Programming Languages:** Python, C++, Javascript, SQL, Typescript, Java, Rust, Solidity
+**Database:** Postgresql, Firebase
+**Web Development:** HTML, CSS, Javascript, Typescript, React.js, Next.js, Tailwind.css, Node.js, Express
+**Operating Systems:** Windows, MacOS, Unix
+**Tools: **Git, Visual Studio Code, Jupyter
+**Cloud Services:** Google Cloud Platform (GCP)
+**Libraries:** React, SWR, PyTorch, Pandas, Numpy
 
 #### Currently working on
 
