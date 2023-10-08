@@ -6,13 +6,13 @@ I'm interested in building software.
 
 #### Skills
 
-**Programming Languages:** Python, C++, Javascript, SQL, Typescript, Java, Rust, Solidity
-**Database:** Postgresql, Firebase
-**Web Development:** HTML, CSS, Javascript, Typescript, React.js, Next.js, Tailwind.css, Node.js, Express
-**Operating Systems:** Windows, MacOS, Unix
-**Tools: **Git, Visual Studio Code, Jupyter
-**Cloud Services:** Google Cloud Platform (GCP)
-**Libraries:** React, SWR, PyTorch, Pandas, Numpy
+- **Programming Languages:** Python, C++, Javascript, SQL, Typescript, Java, Rust, Solidity
+- **Database:** Postgresql, Firebase
+- **Web Development:** HTML, CSS, Javascript, Typescript, React.js, Next.js, Tailwind.css, Node.js, Express
+- **Operating Systems:** Windows, MacOS, Unix
+- **Tools: **Git, Visual Studio Code, Jupyter
+- **Cloud Services:** Google Cloud Platform (GCP)
+- **Libraries:** React, SWR, PyTorch, Pandas, Numpy
 
 #### Currently working on
 
@@ -20,7 +20,7 @@ I'm interested in building software.
 
 <!-- #### What I'm Working On
 
-- Riptide Solana Hackathon
+- Clonr
 
 #### Contact Me!
 
