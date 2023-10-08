@@ -16,7 +16,7 @@ I'm interested in building software.
 
 #### Currently working on
 
-- Clonr
+- Clonr - AI character entertainment platform
 
 <!-- #### What I'm Working On
 
